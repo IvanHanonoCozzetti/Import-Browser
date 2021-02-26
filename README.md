@@ -1,2 +1,2 @@
-# Import-Browser
-Internet browser, written in Python PyQt5
+# Import *
+Internet browser, written in Python using PyQt5
