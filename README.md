@@ -1,4 +1,4 @@
-<img src="logo_transparent.png">
+<img src="logo_g.png">
 Internet browser, written in Python using PyQt5
 
 ## Qt
