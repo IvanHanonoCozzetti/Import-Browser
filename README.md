@@ -3,11 +3,11 @@
 ## Qt
 Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. These include location and positioning services, multimedia, NFC and Bluetooth connectivity, a Chromium based web browser, as well as traditional UI development. <br />
 
-**Qt for Python** <br />
+### Qt for Python <br />
 Qt for Python offers the official Python bindings for Qt, and has two main components: <br />
 - `PySide6`, so that you can use Qt6 APIs in your Python applications
 - `Shiboken6`, a binding generator tool, which can be used to expose C++ projects to Python, and a Python module with some utility functions. <br />
-Porting from PySide2 to PySide6 provides information on porting existing PySide2 applications.
+Porting from PySide2 to PySide6 provides information on porting existing PySide2 applications. <br />
 *Qt for Python documentation: https://doc.qt.io/qtforpython/*
 
 ## QtGui
