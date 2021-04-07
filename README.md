@@ -1,4 +1,4 @@
-<img src="logo_g.png">
+<img src="logo_1.png">
 
 ## Qt
 Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. These include location and positioning services, multimedia, NFC and Bluetooth connectivity, a Chromium based web browser, as well as traditional UI development. <br />
